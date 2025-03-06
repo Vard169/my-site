@@ -125,7 +125,7 @@
         background-color: rgb(75, 75, 75); 
     }
 }
-.drop:hover.navlist {
+.drop .navbtn:hover + .navlist {
     display: block;
     position: absolute;
     right: 1px;
